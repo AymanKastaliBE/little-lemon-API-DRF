@@ -1,0 +1,8 @@
+*.env
+*.pyc
+__pycahe__
+*.log
+.DS_Store
+*.sqlite3
+migrations
+Pipfile.lock
